@@ -18,7 +18,7 @@ Here i create a web app name convid which provides covid health care tips and co
 ## News
 ![Screenshot 2023-05-07 223256](https://user-images.githubusercontent.com/81145991/236694681-1e812266-6a01-4309-a9f6-fefdf8f2d889.png)
 
-##Doctor
+## Doctor
 ![Screenshot 2023-05-07 223256](https://user-images.githubusercontent.com/81145991/236694844-552c9da9-67b1-44fd-837f-c21319adc1ce.png)
 ![Screenshot 2023-05-07 223311](https://user-images.githubusercontent.com/81145991/236694852-bebaa047-937c-43ba-a84e-6b36bba5a405.png)
 
