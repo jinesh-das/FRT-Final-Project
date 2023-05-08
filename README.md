@@ -28,3 +28,7 @@ Here i create a web app name convid which provides covid health care tips and co
 ## Azure portal screen shot
 
 ![Screenshot 2023-05-07 223414](https://user-images.githubusercontent.com/81145991/236695013-658011b6-5cde-46c3-b1b3-5b6f7e6c97e0.png)
+
+# Youtube Link: https://youtu.be/UrD746wGrY0
+
+# GitHub Link: https://jineshdas.github.io/FRT-Final-Project
